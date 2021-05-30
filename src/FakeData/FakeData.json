@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name": "Iphone 11 pro max",
+        "price": 1000,
+        "description": "Featuring a Stunning Pro Display, A13 Bionic, Cutting-Edge Pro Camera System and Longest Battery Life Ever in iPhone with iPhone 11 Pro Max",
+        "image":"https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-Max-1.jpg"
+    },
+    {
+        "id":2,
+        "name": "Nikon camera d7200",
+        "price": 1200,
+        "description": "High-performance AF and more power to keep shooting, delivering sumptuous images",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/813CAX2%2BtQL._SL1500_.jpg"
+    },
+    {
+        "id":3,
+        "name": "MI smart band 5",
+        "price": 300,
+        "description": "Mi Smart Band 5 · Personal activity intelligence. The personal vitality index is calculated using sex, age, heart rate and other data,",
+        "image":"https://www.wifi-shop24.com/media/image/product/791/lg/xiaomi-mi-smart-band-5-eu-black-heart-rate-monitor-bluetooth-5-amoled-display.jpg"
+    },
+    {
+        "id":4,
+        "name": "Beats solo pro",
+        "price": 400,
+        "description": "Beats Solo Pro wireless on-ear headphones have Active Noise Cancelling, powerful sound, Class 1 bluetooth, and up to 40 hours of battery life",
+        "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MRJ72?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1570059317205"
+    }
+]
